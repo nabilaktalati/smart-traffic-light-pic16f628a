@@ -1,0 +1,68 @@
+MPLINK 5.09, LINKER
+Linker Map File - Created Sun May 10 21:32:13 2026
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000002
+                   .cinit    romdata   0x000001    program   0x000004
+                   .org_1       code   0x000004    program   0x000002
+                   .org_2       code   0x000010    program   0x00011c
+.config_2007_BUILD/DEFAULT/PRODUCTION/NEWASMT       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000002      
+                            0x000004    0x000004      
+                            0x000010    0x00009d      
+                            0x002007    0x002007      
+            147 out of 2182 program addresses used, program memory utilization is 6%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_DONGU   0x000045    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                   BASLAT   0x00002e    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                BUTON_YOK   0x00001e    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+              DURUM_ARTIR   0x000096    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                    KESME   0x000010    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+              KESME_BITIR   0x000029    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+             SANIYE_BEKLE   0x000045    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+              SONRAKI_YOL   0x000063    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                YAYA_MODU   0x000054    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+               YAYA_SAYAC   0x00005b    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL1   0x000078    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL2   0x00007f    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL3   0x000086    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL4   0x00008d    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                 YOL_ATLA   0x000094    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                  YOL_SEC   0x000065    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    KESME   0x000010    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                BUTON_YOK   0x00001e    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+              KESME_BITIR   0x000029    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                   BASLAT   0x00002e    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                ANA_DONGU   0x000045    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+             SANIYE_BEKLE   0x000045    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                YAYA_MODU   0x000054    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+               YAYA_SAYAC   0x00005b    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+              SONRAKI_YOL   0x000063    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                  YOL_SEC   0x000065    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL1   0x000078    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL2   0x00007f    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL3   0x000086    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                     YOL4   0x00008d    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+                 YOL_ATLA   0x000094    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+              DURUM_ARTIR   0x000096    program     static C:\Users\nabil\OneDrive\Desktop\finalmicro\odev1\t.X\newAsmTemplate.asm
+
+
